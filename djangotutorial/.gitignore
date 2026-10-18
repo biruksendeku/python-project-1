@@ -1,0 +1,19 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+
+# Local database (where your tutorial data is stored)
+*.sqlite3
+
+# Virtual environment (if you created one inside your project folder)
+venv/
+env/
+.venv/
+
+# IDE / Editor folders (Optional)
+.vscode/
+.idea/
+.DS_Store
+
+# Local environment variables / secrets
+.env
